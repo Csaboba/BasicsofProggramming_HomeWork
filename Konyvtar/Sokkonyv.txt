@@ -1,0 +1,19 @@
+2	Elsoszulott	Christopher Paolini	fantasy	2006
+3	Inferno	Dan Brown	drama	2010
+4	Lathatatlan Bolygok	Ken Liu	fantasy	2014
+5	Brisingr	Christopher Paolini	fantasy	2007
+6	Tovisek Hercege	Mark Lawrence	fantasy	2003
+7	Tovisek Csaszara	Mark Lawrence	fantasy	2014
+8	A Szel neve	Patric Rothfuss	fantasy	2008
+9	The Shattering	Christie Golden	fantasy	2014
+10	Boszorkanylovag	Eric Muldoom	fantasy	2014
+11	A Solyom gyemantja	Anthony Horowitz	ifjusagi	2005
+12	Nagy Indiankonyv	J.F. Cooper	kaland	1965
+13	A Gyuruk Ura	J. R. R. Tolkien	fantasy	1954
+14	Felholtak	Charlie Huston	sci-fi	2008
+16	Bartimaeus	Jhontan Stroud	fantasy	2004
+17	Grant kapitany gyermekei	Jules Verne	kaland	2001
+18	Narnia kronikai	C. S. Lewis	fantasy	2001
+19	Tronok harca	George R. R. Martin	fantasy	2004
+20	Micimacko	Milne	mese	1930
+21	Egvilag	Licia Troisi	Fantasy	2012
